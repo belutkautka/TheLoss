@@ -1,0 +1,53 @@
+[33mcommit 267da2af10fd67a8d6da4ba6fd4e7edb4524ac39[m[33m ([m[1;36mHEAD -> [m[1;32manimation[m[33m)[m
+Author: belutkautka <92267872+belutkautka@users.noreply.github.com>
+Date:   Thu May 12 16:57:54 2022 +0500
+
+    taken out the rubbish
+
+[33mcommit 6eea34b8b5beaee8ae0c470eda455323f337543d[m
+Author: belutkautka <92267872+belutkautka@users.noreply.github.com>
+Date:   Thu May 12 16:54:18 2022 +0500
+
+    all physics is done
+
+[33mcommit 9b010d6371f820624ddd11804f0b46e01be3db1f[m
+Author: belutkautka <92267872+belutkautka@users.noreply.github.com>
+Date:   Thu May 12 16:46:53 2022 +0500
+
+    added CheckForConnection
+
+[33mcommit 30e2b4456aa6821c060a3bb03dfb3648d953f2df[m
+Author: belutkautka <92267872+belutkautka@users.noreply.github.com>
+Date:   Thu May 12 16:24:37 2022 +0500
+
+    fixed bagg with line
+
+[33mcommit 323d4860d38d990a102f8d03894e615bb0a74a38[m
+Author: belutkautka <92267872+belutkautka@users.noreply.github.com>
+Date:   Thu May 12 15:48:21 2022 +0500
+
+    new SwapSystem
+
+[33mcommit ad2884ba44baac07b45af10ad472907027793d20[m
+Author: Fedor <pichuginf2016@mail.ru>
+Date:   Thu May 12 13:01:07 2022 +0500
+
+    добавил теги
+
+[33mcommit cc14c8859271c2b63f3d2242d858b163d5551485[m
+Author: Fedor <pichuginf2016@mail.ru>
+Date:   Thu May 12 01:14:09 2022 +0500
+
+    TotalNewScene
+
+[33mcommit 5f39be835a76649390a9ef7d5b04b286e1ef333d[m
+Author: Fedor <pichuginf2016@mail.ru>
+Date:   Thu May 5 23:21:37 2022 +0500
+
+    fixed jump
+
+[33mcommit a566488ad69c1627b1d58cbedac206696d5a0392[m
+Author: Fedor <pichuginf2016@mail.ru>
+Date:   Thu May 5 19:19:22 2022 +0500
+
+    Initial commit

@@ -1,0 +1,34 @@
+{
+    "name": "SwapSystem",
+    "maps": [
+        {
+            "name": "SwapPlayer",
+            "id": "3dec1e83-1611-4fba-abad-fbe0635fb14a",
+            "actions": [
+                {
+                    "name": "Swap",
+                    "type": "Value",
+                    "id": "36a6af6f-dd36-4592-9e01-58845d4d602e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "06d0863e-ada4-4b94-a35f-3bb9844efab6",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Swap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
